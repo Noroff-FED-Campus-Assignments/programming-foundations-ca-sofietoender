@@ -26,13 +26,29 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
+  height: 100%;
+  width: 100%;
+  
   min-width: 320px;
   min-height: 100vh;
+  
 }
 
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
+
+div {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 600px;
+  height: 700px;
+  
+  
+}
+
