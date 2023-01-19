@@ -23,7 +23,10 @@ This object has the following properties:
 - nrOfleg(number), how many legs the dog has
 - isAlive(boolean), it is true that the dog is alive
 - tricks (array), the dog can do a lot of tricks
-- dogYears (number), the age of the dog 
+- age (number), the age of the dog 
+- function that convert his human years age to dog age.
+- i also added a function that change the picture when clicking on it.
+
 
 
 ## Minimum acceptance Criteria
