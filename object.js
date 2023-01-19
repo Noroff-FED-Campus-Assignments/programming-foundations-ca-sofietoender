@@ -4,9 +4,9 @@ const myDog = {
     nrOfLegs: 4,
     isAlive: true,
     tricks: ['Give Paw', 'Roll over', 'Play Dead'],
-    dogYears: 10,
-    humanYears: function (dogYears, humanYearsFactor = 7) {
-        return dogYears * humanYearsFactor;
+    age: 10,
+    dogYears: function (age, dogYearsFactor = 7) {
+        return age * dogYearsFactor;
     }
     
 

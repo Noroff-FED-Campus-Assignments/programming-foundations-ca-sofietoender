@@ -18,6 +18,13 @@ npm run dev
 // Use this file to write your report.
 
 This object has the following properties:
+- name(String), the name of the dog
+- animal(string), what type of animal 
+- nrOfleg(number), how many legs the dog has
+- isAlive(boolean), it is true that the dog is alive
+- tricks (array), the dog can do a lot of tricks
+- dogYears (number), the age of the dog 
+
 
 ## Minimum acceptance Criteria
 
